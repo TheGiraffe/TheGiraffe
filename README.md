@@ -1,6 +1,6 @@
-### Hi there 👋, I am Sophia!
+### Hi there 👋, 
 
-Welcome to my profile!
+I am Sophia, welcome to my profile!
 <!--
 **TheGiraffe/TheGiraffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
