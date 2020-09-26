@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Sophia!
 
+Welcome to my profile!
 <!--
 **TheGiraffe/TheGiraffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on CAD/3D printing project tutorials, among other things.
+- 🌱 I’m currently learning how to solve problems on HackerRank.
+- 👯 I’m looking to collaborate on hackathon projects!
+- 🤔 I’m looking for help with getting more involved in open source projects.
+- 💬 Ask me about getting involved in hackathons.
+- 📫 How to reach me: Email me at sophiathefabulous@gmail.com :)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am from Maui, Hawai'i but study in Glasgow, Scotland; two very different worlds!
