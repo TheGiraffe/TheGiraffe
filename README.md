@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am from Maui, Hawai'i but study in Glasgow, Scotland; two very different worlds!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGiraffe)](https://github.com/anuraghazra/github-readme-stats)
 ![TheGiraffe's github stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe&count_private=true)
