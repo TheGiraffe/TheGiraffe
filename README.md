@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am from Maui, Hawai'i but study in Glasgow, Scotland; two very different worlds!
 
 ![TheGiraffe's github stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGiraffe&langs_count=10&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources&hide=shell,powershell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGiraffe&langs_count=9&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources&hide=shell,powershell)](https://github.com/anuraghazra/github-readme-stats)
