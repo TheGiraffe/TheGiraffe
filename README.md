@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 ![TheGiraffe's github stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe&count_private=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGiraffe&langs_count=8&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)](https://github.com/anuraghazra/github-readme-stats)
+
+[![An image of @thegiraffe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thegiraffe)](https://holopin.io/@thegiraffe)
