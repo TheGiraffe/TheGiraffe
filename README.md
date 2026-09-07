@@ -16,16 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on CAD/3D printing project tutorials, among other things.
-- 🌱 I’m currently learning how to solve problems on HackerRank.
-- 👯 I’m looking to collaborate on hackathon projects!
-- 🤔 I’m looking for help with getting more involved in open source projects.
-- 💬 Ask me about getting involved in hackathons.
-- 📫 How to reach me: Email me at sophiathefabulous@gmail.com :)
+- 🔭 I’m currently working on too many things at once XD
+- 🌱 I’m currently learning how to make apps using Flutter + the Flame game engine. Also doing some things in Godot occasionally.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am from Maui, Hawai'i but studied in Glasgow, Scotland; two very different worlds!
-
-![TheGiraffe's github stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGiraffe&langs_count=8&layout=compact&theme=cobalt&exclude_repo=GU-BBB-Schematics-Resources)](https://github.com/anuraghazra/github-readme-stats)
 
 [![An image of @thegiraffe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thegiraffe)](https://holopin.io/@thegiraffe)
